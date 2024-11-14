@@ -19,11 +19,10 @@ looking_for: ["Building a biotech company"]
 
 
 ## About me:
-<p>
 I'm a passionate developer who is deeply curious and creative, 
 I spend most of my time studying, programming & learning new technologies.
 My dream is to innovate several industries through technology.
-</p>
+
 
 ## How to reach me 💬
 [<img align="left" alt="Yony6041 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
