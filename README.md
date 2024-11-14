@@ -46,8 +46,8 @@ My dream is to innovate several industries through technology.
 <br />
 
 <p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=Yony6041&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=Yony6041&theme=darcula&hide_border=true&background=FFFFFF00">
+  <img src ="https://github-readme-stats.vercel.app/api?username=TheTechSensei&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=TheTechSensei&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
 
 ### Spotify Playing 🎧
