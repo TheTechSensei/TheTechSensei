@@ -21,7 +21,7 @@ Scientist & Entrepreneur passionate about exploring and redefining the future of
 ## My Mission 🚀
 I am on a mission to pioneer a new era of computing by unifying diverse, cutting-edge paradigms into a single, cohesive supercomputing platform. My work focuses on integrating classical, quantum, neuromorphic, and DNA-based computing architectures to create a hybrid system that harnesses the best processing capabilities each paradigm has to offer.
 
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="800" height="700" />
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="700" height="500" />
 
 --- 
 
@@ -31,9 +31,10 @@ I am on a mission to pioneer a new era of computing by unifying diverse, cutting
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=TheTechSensei&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
 
+<p align="center">
 ### Spotify Playing 🎧
 
 [![Spotify](https://spotify-yony6041.vercel.app/api/spotify)](https://open.spotify.com/user/6bdf0b5ff3f34f73bd4f1a9ccdd6d7ea)
 
 <img align="center" src="https://user-images.githubusercontent.com/48784001/130169241-21e51597-9693-47ff-a304-de1812851cd7.gif"></img>
-
+</p>
