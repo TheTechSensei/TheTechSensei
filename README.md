@@ -34,7 +34,7 @@ I am on a mission to pioneer a new era of computing by unifying diverse, cutting
 <br />
 <br />
 
-<p align="center">
+<p align="right">
   <img src ="https://github-readme-stats.vercel.app/api?username=TheTechSensei&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=TheTechSensei&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
