@@ -11,12 +11,12 @@ job: "Co founder of Expertio Médica"
 technical_interests: ["AI", "Bioinformatics", "Software development", "Cyber Security", "BCI's",  "Organoid Intelligence", "Data Science". "Quantum Computing", "Neuromorphic Computing", "5D optical data storag", "Neuroscience", "Lab Automation", "Genetic Engineering", "Synthetic Biology"]
 hobbies: ["Reading tech news", "Reading books", "Gym"]
 relocation_interests: ["Canada", "US", "Europe"]
-looking_for: ["Publishing my first Scientific Paper", "Studying ", ""]
+looking_for: ["Building a MedTech Company", "Conducting Research on Organoid Intelligence and the Potential of Biological Computing"]
 ```
 
 
 ## About Me 👨‍🔬
-Scientist & Entrepreneur passionate about exploring and redefining the future of computing.
+I'm passionate about exploring and redefining the future of computing.
 
 ## My Mission 🚀
 I am on a mission to pioneer a new era of computing by unifying diverse, cutting-edge paradigms into a single, cohesive supercomputing platform. My work focuses on integrating classical, quantum, neuromorphic, and DNA-based computing architectures to create a hybrid system that harnesses the best processing capabilities each paradigm has to offer.
