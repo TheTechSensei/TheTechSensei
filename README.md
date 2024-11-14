@@ -14,7 +14,6 @@ relocation_interests: ["Canada", "US", "Europe"]
 looking_for: ["Publishing my first Scientific Paper", "Studying ", ""]
 ```
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## About Me 👨‍🔬
 Scientist & Entrepreneur passionate about exploring and redefining the future of computing.
@@ -22,6 +21,7 @@ Scientist & Entrepreneur passionate about exploring and redefining the future of
 ## My Mission 🚀
 I am on a mission to pioneer a new era of computing by unifying diverse, cutting-edge paradigms into a single, cohesive supercomputing platform. My work focuses on integrating classical, quantum, neuromorphic, and DNA-based computing architectures to create a hybrid system that harnesses the best processing capabilities each paradigm has to offer.
 
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <br />
 
@@ -35,6 +35,7 @@ I am on a mission to pioneer a new era of computing by unifying diverse, cutting
 <br />
 
 <p align="right">
+  <img src ="https://github-readme-stats.vercel.app/api?username=TheTechSensei&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=TheTechSensei&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
 
