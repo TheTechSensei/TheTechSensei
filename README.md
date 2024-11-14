@@ -8,29 +8,19 @@ name: Yonathan Berith Jaramillo Ramirez
 located_in: Mexico city
 education: ["Bachelor's in Computer science at UNAM"]
 job: "Co founder of Expertio Médica"
-technical_interests: ["AI", "Bioinformatics", "Software development", "Cyber Security", "BCI's",  "VR", "Data Science". "Business"]
-hobbies: ["Gym", "Reading tech news", "reading books"]
+technical_interests: ["AI", "Bioinformatics", "Software development", "Cyber Security", "BCI's",  "Organoid Intelligence", "Data Science". "Quantum Computing", "Neuromorphic Computing", "5D optical data storag", "Neuroscience", "Lab Automation", "Genetic Engineering", "Synthetic Biology"]
+hobbies: ["Reading tech news", "Reading books", "Gym"]
 relocation_interests: ["Canada", "US", "Europe"]
-looking_for: ["Building a biotech company"]
+looking_for: ["Publishing my first Scientific Paper", "Studying ", ""]
 ```
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
+## About Me 👨‍🔬
+Scientist & Entrepreneur passionate about exploring and redefining the future of computing.
 
-
-## About me:
-I'm a passionate developer who is deeply curious and creative, 
-I spend most of my time studying, programming & learning new technologies.
-My dream is to innovate several industries through technology.
-
-
-## How to reach me 💬
-[<img align="left" alt="Yony6041 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<a align="left" href="mailto:dercomputerschamane@gmail.com">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="25" />
-</a>
-
+## My Mission 🚀
+I am on a mission to pioneer a new era of computing by unifying diverse, cutting-edge paradigms into a single, cohesive supercomputing platform. My work focuses on integrating classical, quantum, neuromorphic, and DNA-based computing architectures to create a hybrid system that harnesses the best processing capabilities each paradigm has to offer.
 
 
 <br />
