@@ -16,10 +16,10 @@ looking_for: ["Building a MedTech Company", "Conducting Research on Organoid Int
 
 
 ## About Me 👨‍🔬
-I'm passionate about exploring and redefining the future of computing.
+I'm passionate about exploring and redefining the future of the MedTech industry.
 
 ## My Mission 🚀
-I am on a mission to pioneer a new era of computing by unifying diverse, cutting-edge paradigms into a single, cohesive supercomputing platform. My work focuses on integrating classical, quantum, neuromorphic, and DNA-based computing architectures to create a hybrid system that harnesses the best processing capabilities each paradigm has to offer.
+Bring cutting edge technology and innovative solutions to the medical industry
 
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="1100" height="550" />
 
